@@ -1,0 +1,14 @@
+{
+  "name": "hw-backend",
+  "version": "1.0.0",
+  "description": "DevOps Session 10 - Exercise 3: Web Backend API with Docker Multi-stage Build & Layer Caching",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
